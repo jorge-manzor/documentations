@@ -10,14 +10,18 @@ To download Docker Desktop, head directly to [Docker Desktop](https://www.docker
 
 Execute the installer, and select the options it has, then click on 'Ok'
 
-![Alt text](images/docker/execute_installer.png)
+<img src="images/docker/execute_installer.png" alt="Alt text" width="50%">
 
 Wait while the files are unpackaged and installed.
 
-![Alt text](images/docker/unpacking_files.png)
+<div style="display: flex;">
+<img src="images/docker/unpacking_files.png" alt="Alt text" style="width: 50%;">
 
-![Alt text](images/docker/unpacking_files.png)
+<img src="images/docker/unpacking_files.png" alt="Alt text" style="width: 50%;">
+</div>
+<br>
+
 
 Once its done, close and restart your computer.
 
-![Alt text](images/docker/installation_complete.png)
+<img src="images/docker/installation_complete.png" alt="Alt text" width="50%">
